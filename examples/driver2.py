@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from PIL import Image
 
-from arrays import (
+from goph547lab00.arrays import (
     square_ones,
 )
 def arrays():
