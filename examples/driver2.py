@@ -147,3 +147,6 @@ def images():
 
     plt.close()
 
+if __name__ == "__main__":
+    arrays()
+    images()
