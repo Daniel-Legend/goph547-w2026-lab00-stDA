@@ -65,7 +65,7 @@ def arrays():
 def images():
     # Question B10-11
     # load and plot the image
-    img = np.asarray(Image.open("examples/rock_canyon.jpg"))
+    img = np.asarray(Image.open("/Users/daniel/Documents/Repos/Courses/goph547/goph547-w2026-lab00-stDA/examples/rock_canyon.jpg"))
     img_shp = img.shape
     print(f"Question B11: shape of rock_canyon.jpg image\n{img_shp}")
     print(
